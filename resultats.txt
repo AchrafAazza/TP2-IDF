@@ -1,0 +1,17 @@
+
+Requête : train billet réservation
+D2 : 0.3797
+D1 : 0.3696
+D5 : 0.3568
+D4 : 0.0892
+D3 : 0.0000
+
+Requête : bus abonnement ville
+D3 : 0.5633
+D1 : 0.0000
+D2 : 0.0000
+D4 : 0.0000
+D5 : 0.0000
+
+Requête : astronomie galaxie
+Aucune correspondance : les mots sont absents du vocabulaire.
